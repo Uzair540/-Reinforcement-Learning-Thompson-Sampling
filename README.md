@@ -1,5 +1,5 @@
 # Reinforcement Learning Thompson Sampling
-### Implementing Machine Learning Algorithm :  Reinforcement Learning Thompson Sampling on the data-set of Ads_CTR_Optimization
+### Implementing Machine Learning Algorithm :  Reinforcement Learning Thompson Sampling on the data-set of Ads CTR Optimization
 Thompson sampling is an algorithm for online decision problems where actions are taken sequentially in a manner that
 must balance between exploiting what is known to maximize immediate performance and investing to accumulate
 new information that may improve future performance. The
